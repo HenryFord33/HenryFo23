@@ -1,0 +1,26 @@
+{
+  "name": "Cordelia Bryan",
+  "age": 18,
+  "address": {
+    "street": "Piito Boulevard",
+    "city": "Bizonsi",
+    "state": "ND",
+    "zip": "99471"
+  },
+  "contact": {
+    "phone": "(523) 840-3001",
+    "servicePhone": "800463611"
+  },
+  "birthday": "1969-07-29T10:48:42.183Z",
+  "ip": "16.91.59.31",
+  "foo": "bar",
+  "profile": {
+    "about": "La gueco bawzu taig ohoefna sa tijaw an ze ba zitdakegi basiwup. Tiiber gitruhwah diir ru gicuj gicatbu ucam ceikuni igezifnus of pasap cugadiap pazaw fotuvmob ri fujono capdomfa tam. Galro gevdiruj epi ufi aci waj pintezi zoambuv hupac dus leje wigbejta de wam cam. Wipto ruhzade hacdemhe sofjocsik ibe vaju edsebovu za gorugof zithovu cef pe fa roak sedanede. Ejufetci vet fut mil nit teftu gu mad zu curnucum va deut. Kef sasiwu bitewova pem tege wiw vono ijakeijo fisole kinahvej horujke hog se awi zati lujweglu he orawuahu.",
+    "bio": "Fehhap zur afoonwi don veof cab vufi vopcurje ogopul gunzetero wuzta rikaduh et. He uzupet ipeleh amuvo vit dage timsuku wipud luceldeb iw webup tebre nemecgip. Ogono jutvu laevfe neboduro giecuru te venguuji omu madomla ithizzab puot kirtewiz. Isafe zelpes goncinse hawseeke pa onaridevi demsej ca vezvegoh non kel noh sezi ziv hib oro. Gimabosic cidkemibe emumoud surrabo beckeb pu fajozhop vebsofo faskepak tera piuzvo dezid uma ut."
+  },
+  "apiKey": "62f08b8e8883ceb6fdda250e8850ae590372863cb67f6ceba79a8ed28dfebfdd",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
