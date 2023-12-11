@@ -1,0 +1,26 @@
+{
+  "name": "Roger Richardson",
+  "age": 25,
+  "address": {
+    "street": "Sise Terrace",
+    "city": "Potuiwa",
+    "state": "NY",
+    "zip": "16068"
+  },
+  "contact": {
+    "phone": "(653) 552-6920",
+    "servicePhone": "800644527"
+  },
+  "birthday": "1992-06-26T12:27:32.498Z",
+  "ip": "202.213.185.44",
+  "foo": "bar",
+  "profile": {
+    "about": "Awtuz fa ba da zecidfug ve afu hul min ebbil zif guv cuwkoc orfam. Ebeca tudijifos ef etivuf lasnonuf rik sogkub bab caah jamma lin ij uf kim. Nades waib fo eg lugam ud to owmamo musviro inoma ciobhe riniteni witluj wobrih kadod ves va bod.",
+    "bio": "Fa weticlud nocamosi sazzavma folo mi muzmizwa ciifi ce iszo kugci fazhob orlon. Punhud zehber uzu miska buwad cop web foblop bihoheh mojgafip ziag vob walma pincon bo. Cuc ofmeen goj ba ek rasso subore ze jiju puhudak an en jobas ak oreciwvi wa."
+  },
+  "apiKey": "c64cdb6fc6190d0d5d808bf2d6d52ae289af40f109a79d24d034480d7260f178",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
