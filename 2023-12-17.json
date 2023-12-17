@@ -1,0 +1,26 @@
+{
+  "name": "Ada Long",
+  "age": 44,
+  "address": {
+    "street": "Haduz Manor",
+    "city": "Jurocof",
+    "state": "TN",
+    "zip": "27843"
+  },
+  "contact": {
+    "phone": "(933) 691-9946",
+    "servicePhone": "800726784"
+  },
+  "birthday": "1969-06-04T21:53:56.549Z",
+  "ip": "135.101.165.48",
+  "foo": "bar",
+  "profile": {
+    "about": "Hazkitara donof egaci pedemop utnetaf nusapwu zogalisic cavov gupiguw sudderrem hel cirtocteg ja eg deowwah osanufa. Niohpit kicti ruup bil cuweg mi sojde ca ca nub heow soz hegcog vu pozen pawu. Faktac zofge po cudnehade jepa dom towa hah lose ew ru pok. Ipu napotzat naz na pi lan ge wicu cerfanlu kuta cohopo hiwodik sutbuv kevgaz.",
+    "bio": "Da fur deknotpod cer ogeba umaen lugakewa focfulsa tekuj oki wikfo lis awhu. Lis ira jin udasoge awa gej ena zubehec hoeha wuza sicwap kennic. Gowa sohilzu eva keaz obiru giwiv guodeku vezramo tomnepgif wa zef karwim fuf gennoj rahu dovru pemodzo. Fohotzel zo aredihbe gi odo meziif mim le gokram eto citne hu."
+  },
+  "apiKey": "aa7a6b3729bd7b8492e38394191aad976367d370e6ff90ea96ef73771dd364dc",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
