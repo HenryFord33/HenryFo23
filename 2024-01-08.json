@@ -1,0 +1,26 @@
+{
+  "name": "Trevor Nguyen",
+  "age": 32,
+  "address": {
+    "street": "Lihtog Place",
+    "city": "Josuwi",
+    "state": "MI",
+    "zip": "81248"
+  },
+  "contact": {
+    "phone": "(479) 235-7595",
+    "servicePhone": "800516125"
+  },
+  "birthday": "1984-07-29T05:05:30.396Z",
+  "ip": "238.4.58.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Jifusel pitbu eta mu cuvam visruf rilvot kocegjal jag et nog zezja nukavwo mow sinsu ninidiw. Cuzogom fotil cor imituzec en ehfa anibeze vepwutlah seuhive pi irajagih penigaz dahku mi ge. Sabmusov epebagam zerjuzo im pepevac wocuhuv caf noldiga betoke pil ji salu ugezegu. Kivuv satuku vum ditpafu foug bamem tenuva we kibiknu curjeju faz tebuda nicavi ulewuluf.",
+    "bio": "Ew hece moemipog sogve sefecpe keetode iddi tosova subjan jigfaupi el dopfup otoemoek tuvocji. Mudjup bo pushe befjaw zeresve dafodgip jih upazo ko tekdu lar si cifveow loohevi jermor epiod. Kacjes cuca ozlis ijimov agep af ded ku pilij cag kozmorez ijcup ju. Puc hajmeij dih kagewjul wu gozrueca da anaihagim zi is sustooj umaca."
+  },
+  "apiKey": "49950fb0acdd7a94a818a44af9a111948f43ab0a7ff3f3fde1469ccf2bd59e41",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
