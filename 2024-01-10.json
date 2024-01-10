@@ -1,0 +1,26 @@
+{
+  "name": "Ian McCarthy",
+  "age": 60,
+  "address": {
+    "street": "Nuru Trail",
+    "city": "Mijelgic",
+    "state": "CA",
+    "zip": "05473"
+  },
+  "contact": {
+    "phone": "(354) 684-3465",
+    "servicePhone": "800589685"
+  },
+  "birthday": "1991-04-09T04:14:31.087Z",
+  "ip": "211.200.90.176",
+  "foo": "bar",
+  "profile": {
+    "about": "Bigel si teza noga vogu hipkobo ifona corusir rek ov vuzse umi hedbikguz jazkigi. Fofefu uco deruw nitohkaf ci moube jiwajlu rabinavi gicdal simab ohida bek migapo. Koj sijajpik diij lab kakhu we sonjuwje hepobsi zawnodnul nihipwoh nioppi me vozka. Mi tat ku zuteh eghe ebilat fijbinuv jefoz imuser sofpacvep fujwupse turolew cowhupmi irbinu joharopa fikjozcav jomakfap mizog.",
+    "bio": "Niiviof zam ob uhe li dezohuw loto utlow lagujuj wieful webake zevilu cufuoc nalo. Utioza mi duet cig sockuc doetuju ohiek mocaiza hiicfov kulu fela uni nenak linihga ebunagoc levwafe. Ar jojze rasat ena bulev keplam osedelic nasizvod suof rasijsu come ucwut ho sezjo tidahem we hokvicmab."
+  },
+  "apiKey": "6a943586633617e46002943689039778e3533c10dbb2f76ba62f0c69a708b22d",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
