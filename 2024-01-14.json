@@ -1,0 +1,26 @@
+{
+  "name": "Roy Gordon",
+  "age": 50,
+  "address": {
+    "street": "Todde Terrace",
+    "city": "Eleborpon",
+    "state": "SC",
+    "zip": "68862"
+  },
+  "contact": {
+    "phone": "(474) 209-3414",
+    "servicePhone": "800566326"
+  },
+  "birthday": "1998-07-08T10:59:29.397Z",
+  "ip": "235.186.12.40",
+  "foo": "bar",
+  "profile": {
+    "about": "Fokkam roviwu letwe puw uzo ci cohotaf bi si fe pahefkem turahtu ku va fodulene cinzioza ako oja. Ar itoiw jadrol picokemir rawhec ehuji udheduk avufih isebeti jud hod ru nuljo sug. Navwa nivdokje mehwe zaze arfebgu hizehhen zu bajoh wejiv apfole wekipes rugur tiagi dojic. Okwun wuselano acbusmen je bogzavico feligwa fe lu det bon noh hojro.",
+    "bio": "Tucwes vu uv bissu owumofi bocmelpo ib vuju edpu bu kidipu de ver ta wemre. Kid lusza nuzamza josegu cu fik netu riiski sagageg teffa la ucujew uk ted elucaz. Huwvu lafupa huozzo domajwe botno caowu efulear isizekip legacisog oduobhi hur repavet rodizef tihaov bazueh ap. Upo vaacu reedier gakwa sina du pohal ito owe wofa bog nilcocir er konibimu havur lidu ful."
+  },
+  "apiKey": "8c05de152953c7ce187282ef2f7f6da58c049bbf418fbd57560a5f6da01ac62f",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
