@@ -1,0 +1,26 @@
+{
+  "name": "Ralph Zimmerman",
+  "age": 44,
+  "address": {
+    "street": "Mifek Path",
+    "city": "Lafali",
+    "state": "KS",
+    "zip": "93083"
+  },
+  "contact": {
+    "phone": "(471) 825-6499",
+    "servicePhone": "800221458"
+  },
+  "birthday": "1960-07-14T21:16:49.716Z",
+  "ip": "127.198.3.91",
+  "foo": "bar",
+  "profile": {
+    "about": "Huz him reahenu ded ofomefja ged son gib fo cazhaf zaanace deno. Aprusjow anahu vejkagi wim tazicegu pi wewosouce pevuv vespu liehlew onuheduj bucac kazhik higvewar ali. Rajwugka vi maw ege ge uv pujwosi muvlupede evguzted egumonak fauhso widlik uti nezmoozu. Naze biwucin vokosmi roabigob lamih ehjoni zobnek ah suz fe esurak piric tuh ufzo jessi fihe. Ez benrid gog haivomic pif viafemoh kuri uto fi lezeglat hojne oza ebiopsuk cisa motuwse. Bun mubgoz wadi nezedo zuj viz catinnu somvuw doklarzer felav zolub omof pa.",
+    "bio": "Tulatigu romha sut ribige oluri vuuzi zido ubjihe len cufbac dec lawecu tugos. Witalu jiza liphic tekped rev lo se utdoh nopevil vutobvo salnopu pari lamom nit iha suzik jigag. Wiafali veig sebebap ashodcu coneb uhjuwvog gerrizha okuubafum owricre elzek pevhul gesa ah owso sipvo es jumboki kaj."
+  },
+  "apiKey": "ce4d4860816e11e64a6679378cd253729a245cffa495b0d5a9a6c0c80da314c7",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
