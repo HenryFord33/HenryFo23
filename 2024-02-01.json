@@ -1,0 +1,26 @@
+{
+  "name": "Rosa Brock",
+  "age": 52,
+  "address": {
+    "street": "Dabeh View",
+    "city": "Hagifij",
+    "state": "IL",
+    "zip": "53167"
+  },
+  "contact": {
+    "phone": "(726) 677-1488",
+    "servicePhone": "800727784"
+  },
+  "birthday": "1981-04-02T20:44:57.013Z",
+  "ip": "87.102.111.44",
+  "foo": "bar",
+  "profile": {
+    "about": "Cefo hegod fetodo levloak nutwusa huan ickiwad lop azatobsew re be pac. Azego vu ziktu ku fimece jodret ric wat puwe epzam vurul hi eb. Ow pac biug pu lo ji wahvuod powamic pal do miwmow metda.",
+    "bio": "Juvi zitne ira iz ke sah ifuhumoc cozewi fe pabuwe korudu bazugi hepsotcit ifugu fuhgunpa co. Mazem av keosi lec alujihog na mursum enowios idhikra tiitu sukviem ta mezli solenod zan puwidje. Purwumub zatvoace bigapo jid loolka ezlen bura lisiv ahukorup meswuupa ra adukalav nupverti pilpuz obicis wu. Geik rictozud atebiuwa hogtimve fabeuf vo lav az lab suc igmiwfes adurek tum vef cebejat nik. Rukev owicigeg busaji teg jic damon hib uwebek uta jeop ma taficfuw fiknesom fi bu babge teldonmi uca."
+  },
+  "apiKey": "3dcab83dc0616d9e6c2ee5d2e22cc4b33d81d7a93af7c6d25567f76350a4da76",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
