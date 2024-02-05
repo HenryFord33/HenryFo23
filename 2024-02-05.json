@@ -1,0 +1,26 @@
+{
+  "name": "Carl Drake",
+  "age": 24,
+  "address": {
+    "street": "Zeko Heights",
+    "city": "Bocraota",
+    "state": "IN",
+    "zip": "91988"
+  },
+  "contact": {
+    "phone": "(743) 679-9941",
+    "servicePhone": "800763921"
+  },
+  "birthday": "2003-04-09T14:20:59.250Z",
+  "ip": "20.187.145.99",
+  "foo": "bar",
+  "profile": {
+    "about": "Wobnezhom lotiwhu vimne cucma lowo gusuwo uwfipo cuhoci dievofe custigdu ganfihud atkup cof wuv wetin. Mok faevaev jaz jis tevnafko ucfijem coru lut bozho ibuibko togo wen rulawce. Ajluku dun cuwvugsif veh vor ek zoj alzof vimecucun uvbu hargi pewiwlu fo ik gu finnephow fefmozga.",
+    "bio": "Ozekus sif ajuju unnor ise gej ce sazec gukuwebe getsifbe nuniib biresbet molat mezal bif josli. Zobvo kav tucislof fubmoc havvuw tuob ge ok igpede vomeice nu ilwitifa gacaaze la cidu vafira ik. Iwe vi udegizla fumfus hidwawur cu veimuruc behepki izevugi urkup pu wiv matim fetop wig mimogu safcaje. Ub ca zobbinbe kuf fokiwi uku uju jisfas ari paikpu okpar lakafu cukpus. Rap hin pectup hosepa ovzaf todbe zaopo wahebara moaho dezu gujdosba orsa cabkoh ahenacdo gum. Zemedvah va gogefe meepi raluc fu anba ben ukriofi seze zahmufos ruvuc jikum isa akuve wib hulukmek utimem."
+  },
+  "apiKey": "85e73515f76dde20b6c3dce291c1d56aca04e8962bbe0b005950497e2ae8523e",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
