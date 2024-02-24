@@ -1,0 +1,26 @@
+{
+  "name": "Corey Welch",
+  "age": 45,
+  "address": {
+    "street": "Unda Point",
+    "city": "Idderke",
+    "state": "LA",
+    "zip": "14830"
+  },
+  "contact": {
+    "phone": "(521) 506-1139",
+    "servicePhone": "800191881"
+  },
+  "birthday": "1994-05-16T01:12:33.266Z",
+  "ip": "58.124.206.4",
+  "foo": "bar",
+  "profile": {
+    "about": "Por ru iso veuno focto kaj vouson aj vo jo rurug vu wi. Sikne comrugalo wambapric juf nizorara kosji zoet toc vavpam befi zomaz medu hukuzon. Mip jakvo hiah ivufjo laciwka ekfigil logsogu luumekag se nitpac vid zawvat ki pogassu hiwez po numed beggowbi. Suwpipi izjud no roini zonuga awepace rib tirbibpu paiha sepo raezvi gatme ri rulevvip icwa tavvefje. Ojoame hez popna akobela rodarbom rawjujore ew derjanow hezgidhew ivi jew kakafoid pes ebanap ton. Pim zelev kob ezu muh tojule abpig wejlenec boapof kuuca deitep meze ibhaw roju asipuk aslisde ugozes surmop.",
+    "bio": "Unva boin dusju ajafumre opas cinumvov diltorru de imofuv mo go ible ceprovi livuwi hittat. Keragat kurhovi ku bagnug nuukfok ohi kunzil rut bed fihmuwil dipeco wu tu ulafecpo upeoli eto kicivov rachok. Rawteg fif uspu mo usupe ni zefi gusi kuwok usduser pam namunga biuk kino fo jurmeomi fahaoc."
+  },
+  "apiKey": "3a23fce0cc990273d8c0cc3fb86751b6fc0f706076e9bb022d343631139d1234",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
