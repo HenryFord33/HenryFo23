@@ -1,0 +1,26 @@
+{
+  "name": "Madge Dunn",
+  "age": 62,
+  "address": {
+    "street": "Imohi Path",
+    "city": "Leteowi",
+    "state": "TX",
+    "zip": "05681"
+  },
+  "contact": {
+    "phone": "(512) 819-5886",
+    "servicePhone": "800594659"
+  },
+  "birthday": "1984-06-26T05:19:56.614Z",
+  "ip": "56.153.73.248",
+  "foo": "bar",
+  "profile": {
+    "about": "Jijiwe ukam toh kilbo ilsi la ecadug unetu tuaj fo zulsoedi cuwsarsi wabu uje cebarvu vuthun. Amocafkiz biduta uj ci faraw fa cus ri cekag soen vi wuvzeb. Osa seritbam voniz naolnu efide oha ozni huz has folad esejejfiv wuvsi geksewup. Apcedre podav wejwe reseval ka wefukusi gekpu ridin iweunzu tavfu cime kazu.",
+    "bio": "Soc evsa riad sadol pusuce uv azhije rijot esoduru inuziwceg husimi dekez tuw iluwu. Kaiha naswu gizzel rubod ocachi darga git kuelug viz dajzablej du pehawos go wigke uzohem hahu suob. Deslermi ufelo ri ri zito ef ciic co fa up ol higda nope uli lumkop iko. Acifeb ozle uj le ludtidma upihuf witege pimenuzo ti gabepnet ab erlazvu sar."
+  },
+  "apiKey": "abed2f125d6fe3dec0c196e31eba1c46cbcfccad9f2bffcf68aaea5a90db80f1",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
