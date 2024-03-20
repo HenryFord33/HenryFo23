@@ -1,0 +1,26 @@
+{
+  "name": "David Dean",
+  "age": 41,
+  "address": {
+    "street": "Zabab River",
+    "city": "Inekome",
+    "state": "AL",
+    "zip": "43845"
+  },
+  "contact": {
+    "phone": "(987) 977-3521",
+    "servicePhone": "800218279"
+  },
+  "birthday": "1970-10-11T02:44:15.124Z",
+  "ip": "124.137.150.66",
+  "foo": "bar",
+  "profile": {
+    "about": "Ej et gu ugicop rov gunhuj ogagen cifeg matokhap za eg ed gatatzi socueko hawugu. Sa bideho afuuwuso ba rewzerez ipo la recbeh ragbifeb mam jej hirefa an owveuro. Ulo hehokci pirzupiw zim ociehiuhe uzewuf mamkeg dibuwjek kisla ucla wa onaifne inu.",
+    "bio": "Gaj digomni seh tih pajca ni dab razuvuk lafwof webagti dum bolpo mawrog hi arniwito ruhani bo joz. Cotpobaz taboki esu awzijem ko kiblut zi fevuz bedijhu raaguca ten rirulu tebure unizi fil pibmu. Bicukpa sacwi zeh anhuko juhuho rijpabi ote nepowra lobehov atdoru ver apilikzi. Kickap hurafeune vaddebe loatrih suve avwe mesmu dis ufuubbu avji eg vezmel cucez. Femuag caerooju bued vor gewa sukuleh teresit duzko dascujlem vocod ce bat tal ke. Ido ofo uzlu nagpug ohakbo jabkes ano el vekgap lon revloker jaelokes fig hotezijus wujficsu levenber mehi. Ciltuhpu mih uwcohce bezgo tozboara pahoigi ita zezavubub muarpik tec ma udri."
+  },
+  "apiKey": "eb55749361e75be41862f07a62fc01f43fa65194aae4d17307de25a0ab8e7f34",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
