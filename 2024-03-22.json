@@ -1,0 +1,26 @@
+{
+  "name": "Seth Garner",
+  "age": 20,
+  "address": {
+    "street": "Dabin Pass",
+    "city": "Potdowri",
+    "state": "MT",
+    "zip": "58458"
+  },
+  "contact": {
+    "phone": "(255) 541-8879",
+    "servicePhone": "800473149"
+  },
+  "birthday": "1962-05-21T20:36:16.197Z",
+  "ip": "185.171.223.117",
+  "foo": "bar",
+  "profile": {
+    "about": "Kecsat gilem bein ma jimiru egi nohkefu vu liv pe iciowi gurreshu. Male til mo sirpawcic vemgomuk gudkohum folsufaw kusbajacu du facutdod ac gaoc vow pa. Fucsik fozemub luojnih buzin dileep wi wu afcez doka fe deh nokkuf. Sis suwlambi wer do bap pijaika zubwecbij val ulewuhtip emnof egeko uke ih fe. Buc eg jaiwu igaoz bokur cewpip tim emihu ruromi femape di imgezfip nidigmuc. Za sipowdan pap zadu larji anucero odloszif ig luksol sa nefiwuhe go rakhede ef pul hofugsa durov. Konwu suruz nekid cub dehukbu negno lebpezjil sulahfu eru rahordid behme ono pim navdepfu ke.",
+    "bio": "Cid zej napemfu bud orupile bib mun ril ihuutkef ipba rurbecsoz makethup binah bad tu se vog. Za tiitifu pir udo et leg og gocdi makpelza esajotli cot legfu wabpacud uzejim ipamum. Wefmacwup olleper wuhihza fa mioj un iceniwaf sedzeup jebzemot hug his dip viida sowfef vum do. Ci vu rojwur ziwifpac lis pavhoril sapresle gonuffe rac we palbuw ojponu weij tik fug. Epo ahfo waseewo te tirjofaf ce ine kob ugdenzit kugi osnul zirhi orocodnaf faf wi pepsasac. Am mi opeade rot utakihci oti obivo iwsizah putowe kuow ta nadelkal mapopve oma jugtiar lin ju mojbuma."
+  },
+  "apiKey": "7990e0b14c279759cd2467395a68bd8d8c4bdbeccc241127840c86b1c56ab4d2",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
