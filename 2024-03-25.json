@@ -1,0 +1,26 @@
+{
+  "name": "Mark Walker",
+  "age": 59,
+  "address": {
+    "street": "Ipera Ridge",
+    "city": "Nutucim",
+    "state": "HI",
+    "zip": "10240"
+  },
+  "contact": {
+    "phone": "(929) 416-4766",
+    "servicePhone": "800246311"
+  },
+  "birthday": "2005-06-22T12:19:19.097Z",
+  "ip": "155.164.49.87",
+  "foo": "bar",
+  "profile": {
+    "about": "Tarcib fabcan lahepi sanvi ogerpe enab pelgulbud ekhohiw po bu siofu afi. Kij uhi uzo caulebu saw sedde ujcic eboivo ragag zahzijju ungo jaf nirfuv ifedoh fu. Lo zi ulu tol uturo vashih soenuvet rejusuhi fitmal kekmo mav cobiw.",
+    "bio": "Ekobirva mac satlobiz zova uhiri kugin tigalu ciczen bikoepu jonvefji vugewi rilaf gimrem sahdof kerti. Bujgu ofufer ti dep modvifvef duulefu otieweloz pucebke puhseki kecouzo alibel peozi cagva roog afeuhvar vocerwa ja. Gub genkovmiz idomu zartavek fig bap roiso jup jagahip tefab pihuwe uti wapot udeap fucvaem."
+  },
+  "apiKey": "24de117b040a94217f2be2253127e3fcdf1ab2d7d54cd0631eb81a90dd11ae72",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
