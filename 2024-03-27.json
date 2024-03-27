@@ -1,0 +1,26 @@
+{
+  "name": "Ronald Powell",
+  "age": 29,
+  "address": {
+    "street": "Adga Place",
+    "city": "Pojocesu",
+    "state": "HI",
+    "zip": "99876"
+  },
+  "contact": {
+    "phone": "(978) 871-3288",
+    "servicePhone": "800114412"
+  },
+  "birthday": "1976-11-03T01:34:47.466Z",
+  "ip": "218.112.208.22",
+  "foo": "bar",
+  "profile": {
+    "about": "Wohgum kub sebdus buwlotav zasmo wa dijocmu zavpopva fuvgevet zeag ho ajogec neleta cama mevod. Az van zikwula varokla woigkum rauw didov dosdusin fimkuma jol gasen mogemapo. Os elesil wubjicu asejadepe dabmeg lo sujaw ri difliweg hisroipu se sazlu ukso tum icowi negpannij. Mosajlig ci tem uha asa lufew vi dojkuoze cagnukek amdahaz tufowuc fahda posfu fa.",
+    "bio": "Tu nuf tar uco duun hefsuhvaz ocerab dimkije recfan kar of zudi wocbol. Vifjo vigoruh zacfason oro ufda refuvhe seflepdej itevgiz afke vo memrimje ifupo lola. Pucu ibuebote hi goche kuso fugjis riosunih abi tug vuna etbewfo viclemi dufo."
+  },
+  "apiKey": "5906f62a5dc7962a890056b8b8d3c73478c0971618fb9ba246614d334646cd7d",
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar"
+  }
+}
