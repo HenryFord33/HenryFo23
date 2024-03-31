@@ -1,0 +1,26 @@
+{
+  "name": "Roy Fletcher",
+  "age": 34,
+  "address": {
+    "street": "Viuli Point",
+    "city": "Niamiko",
+    "state": "CO",
+    "zip": "64909"
+  },
+  "contact": {
+    "phone": "(847) 512-7651",
+    "servicePhone": "800137939"
+  },
+  "birthday": "1988-05-11T19:57:12.735Z",
+  "ip": "103.245.148.250",
+  "foo": "bar",
+  "profile": {
+    "about": "Kuva cawin ta peweame tuw ejo ravna don rarcatnat wipseuna sopu so fow. Ur uhigavnoc edumu toabo vapa hucefazi saika ficamibe jurterdu ziwufe gi cejiz rauhuen ben gak vegdu kuhfob ofnul. Mujatfe ufkivek kepunu ticumvu bocuwesuf zeidcak keeg ni lukric taw kol guhub pavpa.",
+    "bio": "Abe paggezej gogri zefhol co civ in ibobi miro dogligdup tokva pij ut. Kosmili waf lej ba uz gicje mu oldot ku halwi rojoc beded saw ce. Ep iho bilsa madib zemij sohrup he mar tiwtuum diz megrahwok tuocego umfek lalmow ipwut imdoppug purgiz. Ipa fujug zelleari diktis siawe soimocah ac ima fizokot hakiz rewkowo cutof bajobzel. Kobma zo fipopi afgorvuf rakme uroomo fa sajuj tetgaha vu itduwwit jutza kakvul."
+  },
+  "apiKey": "cd1ba643f1e94cd855c51ae1a36011f6ebb23d242d59b5a0dee912a392e12d5e",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
